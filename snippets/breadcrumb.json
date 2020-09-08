@@ -1,0 +1,16 @@
+{
+    "Breadcrumb Component": {
+        "prefix": "mo-breadcrumb",
+        "body": [
+            "<mo-lib-breadcrumb",
+            "\t[steps]=\"steps\"",
+            "\t[completedIndexs]=\"completedIndexs\"",
+            "\t[background]=\"background\"",
+            "\t[ngClass]=\"ngClass\"",
+            "\t[ngStyleItem]=\"ngStyleItem\"",
+            "\t(onStepSelect)=\"onStepSelect(\\$event)\">",
+            "</mo-lib-breadcrumb>"
+        ],
+        "description": "Breadcrumb Component"
+    }
+}

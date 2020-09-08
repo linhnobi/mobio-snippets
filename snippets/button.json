@@ -1,0 +1,25 @@
+{
+    "Button Component": {
+        "prefix": "mo-button",
+        "body": [
+            "<mo-lib-components-button",
+            "\t[type]=\"'blue-solid' | 'blue-border' | 'dark' | 'transparent' | 'red' | 'red-border' | 'text-blue' | 'text-dark' | 'text-red'\"",
+            "\t[label]=\"'label'\"",
+            "\t[disable]=\"true|false\"",
+            "\t[classInclude]=\"'class'\"",
+            "\t[classIconLeft]=\"'class'\"",
+            "\t[classIconRight]=\"'class'\"",
+            "\t[classLabel]=\"'class'\"",
+            "\t[tooltipContent]=\"'tooltip content'\"",
+            "\t(onClick)=\"onClick(\\$event)\">",
+            "</mo-lib-components-button>"
+        ],
+        "description": "Button Component"
+    },
+    "Button Dropdown Component": {
+        "prefix": "mo-button-dropdown",
+        "body": [
+            "<mo-lib-components-button></mo-lib-components-button"
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Input Component": {
+        "prefix": "m-input",
+        "body": [
+            "<mo-lib-input></mo-lib-input"
+        ]
+    }
+}
