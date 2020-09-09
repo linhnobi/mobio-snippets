@@ -22,13 +22,13 @@
 		],
 		"snippets": [
 			{
-			  "language": "html",
-			  "path": "./snippets/breadcrumb.json"
+				"language": "html",
+				"path": "./snippets/breadcrumb.json"
 			},
 			{
 				"language": "html",
 				"path": "./snippets/button.json"
-			  }
+			}
 		]
 	},
 	"scripts": {
