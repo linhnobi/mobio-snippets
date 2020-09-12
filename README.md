@@ -1,7 +1,11 @@
-#Mobio Class Css
+#Mobio Class CSS Snippets
+This extension provide you shorthand lib Mobio CSS snippets for VS Code.
+
+You can check the list for detail snippet info.
+
 | Prefix | CSS Snippet Content |
 | ------ | ------ |
-| mo-br | border radius |
+| mo-br  | border radius |
 | mo-pad | padding |
 | mo-padax | padding x auto |
 | mo-paday | padding y auto |
