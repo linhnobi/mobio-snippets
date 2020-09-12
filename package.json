@@ -2,7 +2,10 @@
 	"name": "mobio-snippets",
 	"displayName": "Mobio Snippets",
 	"description": "",
+	"repository": "https://github.com/linhnobi/mobio-snippets",
 	"version": "0.0.1",
+	"publisher": "LinhNobi",
+  	"icon": "images/mobio.png",
 	"engines": {
 		"vscode": "^1.48.0"
 	},
@@ -21,6 +24,10 @@
 			}
 		],
 		"snippets": [
+			{
+				"language": "html",
+				"path": "./snippets/class.json"
+			},
 			{
 				"language": "html",
 				"path": "./snippets/breadcrumb.json"
