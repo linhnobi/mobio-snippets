@@ -5,7 +5,7 @@
 	"repository": "https://github.com/linhnobi/mobio-snippets",
 	"version": "0.0.1",
 	"publisher": "LinhNobi",
-  	"icon": "images/mobio.png",
+	"icon": "images/mobio.png",
 	"engines": {
 		"vscode": "^1.48.0"
 	},
