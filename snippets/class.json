@@ -136,7 +136,7 @@
         "body": ["position-relative"]
     },
     "Class position fixed": {
-        "prefix": "relative",
+        "prefix": "fixed",
         "body": ["position-fixed"]
     },
     "Class position top": {
@@ -176,7 +176,7 @@
         ]
     },
     "Class position left": {
-        "prefix": "mo-post",
+        "prefix": "mo-posl",
         "body": [
             "mo-lib-left-${1| ,-54px,-35px,-30px,-20px,-12px,-4px,0,2px,4px,5px,6px,7px,8px,10px,12px,14px,15px,16px,20px,22px,28px,30px,36px,40px,44px,46px,50px,64px,60px,120px|}"
         ]
