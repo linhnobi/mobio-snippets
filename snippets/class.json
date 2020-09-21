@@ -237,145 +237,145 @@
         ]
     },
     "Class color": {
-        "perfix": "mo-color",
+        "prefix": "mo-color",
         "body": [
             "mo-lib-color-${1| ,eee,ff5454,4a4a4a,29c7cc,5db200,ffffff,6fd100,4cb7ff,fbb107,c4c4c4,e6e8ed,e6eef5,ebf1fa,f7f8fa,e5e5e5,f44336,f57c00,fbc02d,7ed321,5cae22,7b4eff,6de01b,2e92ff,007dff,f8fcff,8657ff,ebf0f5,ffc500,5ece0d,ff5667,8358cb,4a6da7,f2f4f8,ff6e6e,4d70a9,f2f5f7,19344a,008547,606060,f1f0f0|}"
         ]
     },
-    "Class backgroud": {
-        "perfix": "mo-bg",
+    "Class background": {
+        "prefix": "mo-bg",
         "body": [
             "mo-lib-bg-${1| ,eee,ff5454,4a4a4a,29c7cc,5db200,ffffff,6fd100,4cb7ff,fbb107,c4c4c4,e6e8ed,e6eef5,ebf1fa,f7f8fa,e5e5e5,f44336,f57c00,fbc02d,7ed321,5cae22,7b4eff,6de01b,2e92ff,007dff,f8fcff,8657ff,ebf0f5,ffc500,5ece0d,ff5667,8358cb,4a6da7,f2f4f8,ff6e6e,4d70a9,f2f5f7,19344a,008547,606060,f1f0f0|}"
         ]
     },
-    "Class backgroud hover": {
-        "perfix": "mo-bg-hover",
+    "Class background hover": {
+        "prefix": "mo-bg-hover",
         "body": [
             "mo-lib-bg-hover${1| ,eee,ff5454,4a4a4a,29c7cc,5db200,ffffff,6fd100,4cb7ff,fbb107,c4c4c4,e6e8ed,e6eef5,ebf1fa,f7f8fa,e5e5e5,f44336,f57c00,fbc02d,7ed321,5cae22,7b4eff,6de01b,2e92ff,007dff,f8fcff,8657ff,ebf0f5,ffc500,5ece0d,ff5667,8358cb,4a6da7,f2f4f8,ff6e6e,4d70a9,f2f5f7,19344a,008547,606060,f1f0f0|}"
         ]
     },
     "Class border": {
-        "perfix": "mo-border",
+        "prefix": "mo-border",
         "body": [
             "mo-lib-border-${1| ,eee,ff5454,4a4a4a,29c7cc,5db200,ffffff,6fd100,4cb7ff,fbb107,c4c4c4,e6e8ed,e6eef5,ebf1fa,f7f8fa,e5e5e5,f44336,f57c00,fbc02d,7ed321,5cae22,7b4eff,6de01b,2e92ff,007dff,f8fcff,8657ff,ebf0f5,ffc500,5ece0d,ff5667,8358cb,4a6da7,f2f4f8,ff6e6e,4d70a9,f2f5f7,19344a,008547,606060,f1f0f0|}"
         ]
     },
     "Class hover": {
-        "perfix": "mo-hover",
+        "prefix": "mo-hover",
         "body": [
             "mo-lib-hover-${1| ,eee,ff5454,4a4a4a,29c7cc,5db200,ffffff,6fd100,4cb7ff,fbb107,c4c4c4,e6e8ed,e6eef5,ebf1fa,f7f8fa,e5e5e5,f44336,f57c00,fbc02d,7ed321,5cae22,7b4eff,6de01b,2e92ff,007dff,f8fcff,8657ff,ebf0f5,ffc500,5ece0d,ff5667,8358cb,4a6da7,f2f4f8,ff6e6e,4d70a9,f2f5f7,19344a,008547,606060,f1f0f0|}"
         ]
     },
     "Class color 4e4e4e": {
-        "perfix": "mo-color4e",
+        "prefix": "mo-color4e",
         "body": [
             "mo-lib-color-4e4e4e"
         ]
     },
     "Class hover 4e4e4e": {
-        "perfix": "mo-hover4e",
+        "prefix": "mo-hover4e",
         "body": [
             "mo-lib-hover-4e4e4e"
         ]
     },
     "Class color 4e4e4e 50": {
-        "perfix": "mo-color4e50",
+        "prefix": "mo-color4e50",
         "body": [
             "mo-lib-color-4e4e4e50"
         ]
     },
     "Class color 4e4e4e 70": {
-        "perfix": "mo-color4e70",
+        "prefix": "mo-color4e70",
         "body": [
             "mo-lib-color-4e4e4e70"
         ]
     },
     "Class color 4e4e4e 30": {
-        "perfix": "mo-color4e30",
+        "prefix": "mo-color4e30",
         "body": [
             "mo-lib-color-4e4e4e30"
         ]
     },
     "Class color 4e4e4e 15": {
-        "perfix": "mo-color4e15",
+        "prefix": "mo-color4e15",
         "body": [
             "mo-lib-color-4e4e4e15"
         ]
     },
-    "Class backgroud 4e4e4e 50": {
-        "perfix": "mo-bg4e50",
+    "Class background 4e4e4e 50": {
+        "prefix": "mo-bg4e50",
         "body": [
             "mo-lib-bg-4e4e4e50"
         ]
     },
-    "Class backgroud 4e4e4e 30": {
-        "perfix": "mo-bg4e30",
+    "Class background 4e4e4e 30": {
+        "prefix": "mo-bg4e30",
         "body": [
             "mo-lib-bg-4e4e4e30"
         ]
     },
-    "Class backgroud 4e4e4e 005": {
-        "perfix": "mo-bg4e5",
+    "Class background 4e4e4e 005": {
+        "prefix": "mo-bg4e5",
         "body": [
             "mo-lib-bg-4e4e4e005"
         ]
     },
-    "Class backgroud none": {
-        "perfix": "mo-bgn",
+    "Class background none": {
+        "prefix": "mo-bgn",
         "body": [
             "mo-lib-bg-none"
         ]
     },
     "Class cursor": {
-        "perfix": "mo-cursor",
+        "prefix": "mo-cursor",
         "body": [
             "mo-lib-cursor-${1|pointer,default,text,move,copy,help,none|}"
         ]
     },
     "Class font size": {
-        "perfix": "mo-fz",
+        "prefix": "mo-fz",
         "body": [
             "mo-lib-font-size-${1|8px,10px,11px,12px,14px,16px,18px,19px,20px,21px,22px,24px,25px,30px,36px,40px,46px,50px,60px,75px,85px,100px,140px,150px,160px,190px,218px|}"
         ]
     },
     "Class calc width": {
-        "perfix": "mo-calc-w",
+        "prefix": "mo-calc-w",
         "body": [
             "mo-lib-calc-w-${1|12px,14px,18px,22px,28px,35px,36px,40px,42px,45px,50px,55px,60px,70px,75px,80px,90px,100px,115px,120px,130px,180px,200px,220px,222px,225px,240px,247px,320px,419px,432px,450px,490px,510px,531px,561px|}"
         ]
     },
     "Class calc viewport width": {
-        "perfix": "mo-mo-calc-vw",
+        "prefix": "mo-mo-calc-vw",
         "body": [
             "mo-lib-calc-vw-${1|12px,14px,18px,22px,28px,35px,36px,40px,42px,45px,50px,55px,60px,70px,75px,80px,90px,100px,115px,120px,130px,180px,200px,220px,222px,225px,240px,247px,320px,419px,432px,450px,490px,510px,531px,561px|}"
         ]
     },
     "Class calc heigth": {
-        "perfix": "mo-calc-h",
+        "prefix": "mo-calc-h",
         "body": [
             "mo-lib-calc-h-${1|4px,5px,16px,20px,24px,27px,32px,35px,36px,40px,42px,43px,45px,48px,52px,53px,54px,55px,60px,62px,64px,68px,70px,71px,75px,78px,84px,87px,94px,95px,96px,100px,104px,115px,125px,135px,140px,147px,150px,153px,156px,158px,161px,164px,165px,167px,170px,172px,173px,174px,175px,180px,202px,204px,206px,212px,216px,220px,221px,222px,224px,226px,228px,230px,235px,247px,248px,255px,269px,278px,286px,287px,290px,295px,304px,315px,318px,320px,324px,328px,340px,341px,347px,360px,366px,385px,422px,500px,550px|}"
         ]
     },
     "Class calc viewport height": {
-        "perfix": "mo-calc-vh",
+        "prefix": "mo-calc-vh",
         "body": [
             "mo-lib-calc-vh-${1|4px,5px,16px,20px,24px,27px,32px,35px,36px,40px,42px,43px,45px,48px,52px,53px,54px,55px,60px,62px,64px,68px,70px,71px,75px,78px,84px,87px,94px,95px,96px,100px,104px,115px,125px,135px,140px,147px,150px,153px,156px,158px,161px,164px,165px,167px,170px,172px,173px,174px,175px,180px,202px,204px,206px,212px,216px,220px,221px,222px,224px,226px,228px,230px,235px,247px,248px,255px,269px,278px,286px,287px,290px,295px,304px,315px,318px,320px,324px,328px,340px,341px,347px,360px,366px,385px,422px,500px,550px|}"
         ]
     },
     "Class overflows": {
-        "perfix": "mo-overflows",
+        "prefix": "mo-overflows",
         "body": [
             "mo-lib-overflow-${1|hidden,overlay,visible,auto,initial,unset|}"
         ]
     },
     "Class overflows x": {
-        "perfix": "mo-overflows-x",
+        "prefix": "mo-overflows-x",
         "body": [
             "mo-lib-overflow-x-${1|hidden,overlay,visible,auto,initial,unset|}"
         ]
     },
     "Class overflows y": {
-        "perfix": "mo-overflows-y",
+        "prefix": "mo-overflows-y",
         "body": [
             "mo-lib-overflow-y-${1|hidden,overlay,visible,auto,initial,unset|}"
         ]
