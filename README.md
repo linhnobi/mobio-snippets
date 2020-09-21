@@ -35,7 +35,7 @@ You can check the list for detail snippet info.
 | mo-posr% | right % |
 | mo-posb | bottom |
 | mo-posb% | bottom % |
-| mo-posl | top |
+| mo-posl | left |
 | mo-posl% | left % |
 | mo-zi | z-index |
 | mo-h | height |

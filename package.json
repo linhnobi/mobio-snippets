@@ -10,7 +10,7 @@
 		"vscode": "^1.48.0"
 	},
 	"categories": [
-		"Other"
+		"Snippets"
 	],
 	"activationEvents": [
 		"onCommand:mobio.helloWorld"

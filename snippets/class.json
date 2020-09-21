@@ -1,6 +1,7 @@
 {
     "Class border radius": {
-        "prefix": "mo-br",
+        "prefix": ["mo-br", "border-radius"],
+        "scope": "javascript,typescript,html",
         "body": [
             "mo-lib-border-radius-${1| ,50em,0,3px,4px,5px,6px,7px,8px,10px,11px,12px,13px,14px,15px,16px,20px,22px,32px,50px|}"
         ],
