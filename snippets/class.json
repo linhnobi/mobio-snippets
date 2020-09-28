@@ -260,6 +260,44 @@
             "mo-lib-border-${1| ,eee,ff5454,4a4a4a,29c7cc,5db200,ffffff,6fd100,4cb7ff,fbb107,c4c4c4,e6e8ed,e6eef5,ebf1fa,f7f8fa,e5e5e5,f44336,f57c00,fbc02d,7ed321,5cae22,7b4eff,6de01b,2e92ff,007dff,f8fcff,8657ff,ebf0f5,ffc500,5ece0d,ff5667,8358cb,4a6da7,f2f4f8,ff6e6e,4d70a9,f2f5f7,19344a,008547,606060,f1f0f0|}"
         ]
     },
+    "Class border general": {
+        "prefix": ["mo-border-general", "border general"],
+        "body": [
+            "mo-lib-border-general"
+        ]
+    },
+    "Class border top general": {
+        "prefix": ["mo-border-top-general", "border top general"],
+        "body": [
+            "mo-lib-border-top-general"
+        ]
+    },
+    "Class border right general": {
+        "prefix": ["mo-border-right-general", "border right general"],
+        "body": [
+            "mo-lib-border-right-general"
+        ]
+    },
+    "Class border left general": {
+        "prefix": ["mo-border-left-general", "border left general"],
+        "body": [
+            "mo-lib-border-left-general"
+        ]
+    },
+    "Class border bottom general": {
+        "prefix": ["mo-border-bottom-general", "border bottom general"],
+        "body": [
+            "mo-lib-border-bottom-general"
+        ]
+    },
+    "Class border error general": {
+        "prefix": ["mo-border-error-general", "border error general"],
+        "body": [
+            "mo-lib-border-error-general"
+        ]
+    },
+
+
     "Class hover": {
         "prefix": ["mo-hover", "hover", "mo-lib-hover-"],
         "body": [
@@ -267,55 +305,55 @@
         ]
     },
     "Class color 4e4e4e": {
-        "prefix": "mo-color4e",
+        "prefix": ["mo-color4e", "color4e"],
         "body": [
             "mo-lib-color-4e4e4e"
         ]
     },
     "Class hover 4e4e4e": {
-        "prefix": "mo-hover4e",
+        "prefix": ["mo-hover4e", "hover4e"],
         "body": [
             "mo-lib-hover-4e4e4e"
         ]
     },
     "Class color 4e4e4e 50": {
-        "prefix": "mo-color4e50",
+        "prefix": ["mo-color4e50", "color4e50"],
         "body": [
             "mo-lib-color-4e4e4e50"
         ]
     },
     "Class color 4e4e4e 70": {
-        "prefix": "mo-color4e70",
+        "prefix": ["mo-color4e70", "color4e70"],
         "body": [
             "mo-lib-color-4e4e4e70"
         ]
     },
     "Class color 4e4e4e 30": {
-        "prefix": "mo-color4e30",
+        "prefix": ["mo-color4e30", "color4e30"],
         "body": [
             "mo-lib-color-4e4e4e30"
         ]
     },
     "Class color 4e4e4e 15": {
-        "prefix": "mo-color4e15",
+        "prefix": ["mo-color4e15", "color4e15"],
         "body": [
             "mo-lib-color-4e4e4e15"
         ]
     },
     "Class background 4e4e4e 50": {
-        "prefix": "mo-bg4e50",
+        "prefix": ["mo-bg4e50", "background 4e50"],
         "body": [
             "mo-lib-bg-4e4e4e50"
         ]
     },
     "Class background 4e4e4e 30": {
-        "prefix": "mo-bg4e30",
+        "prefix": ["mo-bg4e30","background 4e30"],
         "body": [
             "mo-lib-bg-4e4e4e30"
         ]
     },
     "Class background 4e4e4e 005": {
-        "prefix": "mo-bg4e5",
+        "prefix": ["mo-bg4e5", "background 4e5"],
         "body": [
             "mo-lib-bg-4e4e4e005"
         ]
@@ -333,7 +371,7 @@
         ]
     },
     "Class font size": {
-        "prefix": ["mo-fz", "font-size", "mo-lib-font-size-"],
+        "prefix": ["mo-fz", "fz", "font-size", "mo-lib-font-size-"],
         "body": [
             "mo-lib-font-size-${1|8px,10px,11px,12px,14px,16px,18px,19px,20px,21px,22px,24px,25px,30px,36px,40px,46px,50px,60px,75px,85px,100px,140px,150px,160px,190px,218px|}"
         ]
@@ -362,7 +400,7 @@
             "mo-lib-calc-vh-${1|4px,5px,16px,20px,24px,27px,32px,35px,36px,40px,42px,43px,45px,48px,52px,53px,54px,55px,60px,62px,64px,68px,70px,71px,75px,78px,84px,87px,94px,95px,96px,100px,104px,115px,125px,135px,140px,147px,150px,153px,156px,158px,161px,164px,165px,167px,170px,172px,173px,174px,175px,180px,202px,204px,206px,212px,216px,220px,221px,222px,224px,226px,228px,230px,235px,247px,248px,255px,269px,278px,286px,287px,290px,295px,304px,315px,318px,320px,324px,328px,340px,341px,347px,360px,366px,385px,422px,500px,550px|}"
         ]
     },
-    "Class overflows": {
+    "Class overflow": {
         "prefix": ["mo-overflow", "overflow", "mo-lib-overflow-"],
         "body": [
             "mo-lib-overflow-${1|hidden,overlay,visible,auto,initial,unset|}"
