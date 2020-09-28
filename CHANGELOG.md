@@ -2,8 +2,13 @@
 
 All notable changes to the "mobio" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [Create Mobio Snippets]
 
-## [Unreleased]
+- Create Mobio Snippets
+- Snippets Class CSS
+- Version 0.0.1
 
-- Initial release
+## [0.0.2] - 2020-09-28
+
+- Add prefix suggest
+- Add file CHANGELOG.md
