@@ -6,7 +6,7 @@ You can check the list for detail snippet info.
 
 | Prefix | CSS Snippet Content |
 | ------ | ------ |
-| mo-br  | border radius |
+| mo-br, border-radius  | border radius |
 | mo-pad | padding |
 | mo-padax | padding x auto |
 | mo-paday | padding y auto |
