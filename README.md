@@ -3,7 +3,7 @@
 This extension provide you shorthand lib Mobio CSS snippets for VS Code.
 
 ### Example
-![Example](https://filebin.net/sirpr9caau099rrd/Mobio_Snippets.gif?t=lilr5b1z)
+![Example](https://api-test1.mobio.vn//emk/images/upload/ce0d88a6536cae44b5e94f2c37cdc90a)
 
 You can check the list for detail snippet info.
 
