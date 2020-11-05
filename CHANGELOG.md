@@ -11,7 +11,7 @@ All notable changes to the "mobio" extension will be documented in this file.
 - Add prefix suggest
 - Add file CHANGELOG.md
 
-## [Create Mobio Snippets]
+## [0.0.1]
 
 - Create Mobio Snippets
 - Snippets Class CSS

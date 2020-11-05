@@ -1,6 +1,9 @@
-#Mobio Class CSS Snippets
+### Mobio Class CSS Snippets
 
 This extension provide you shorthand lib Mobio CSS snippets for VS Code.
+
+### Example
+![Example](https://raw.githubusercontent.com/linhnobi/mobio-snippets/master/Mobio_Snippets.gif)
 
 You can check the list for detail snippet info.
 
