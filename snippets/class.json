@@ -251,7 +251,7 @@
     "Class background hover": {
         "prefix": ["mo-bg-hover", "background hover", "mo-lib-bg-hover"],
         "body": [
-            "mo-lib-bg-hover${1| ,eee,ff5454,4a4a4a,29c7cc,5db200,ffffff,6fd100,4cb7ff,fbb107,c4c4c4,e6e8ed,e6eef5,ebf1fa,f7f8fa,e5e5e5,f44336,f57c00,fbc02d,7ed321,5cae22,7b4eff,6de01b,2e92ff,007dff,f8fcff,8657ff,ebf0f5,ffc500,5ece0d,ff5667,8358cb,4a6da7,f2f4f8,ff6e6e,4d70a9,f2f5f7,19344a,008547,606060,f1f0f0|}"
+            "mo-lib-bg-hover-${1| ,eee,ff5454,4a4a4a,29c7cc,5db200,ffffff,6fd100,4cb7ff,fbb107,c4c4c4,e6e8ed,e6eef5,ebf1fa,f7f8fa,e5e5e5,f44336,f57c00,fbc02d,7ed321,5cae22,7b4eff,6de01b,2e92ff,007dff,f8fcff,8657ff,ebf0f5,ffc500,5ece0d,ff5667,8358cb,4a6da7,f2f4f8,ff6e6e,4d70a9,f2f5f7,19344a,008547,606060,f1f0f0|}"
         ]
     },
     "Class border": {

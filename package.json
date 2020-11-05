@@ -3,7 +3,7 @@
 	"displayName": "Mobio Snippets",
 	"description": "",
 	"repository": "https://github.com/linhnobi/mobio-snippets",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "LinhNobi",
 	"icon": "images/mobio.png",
 	"engines": {
@@ -26,6 +26,10 @@
 		"snippets": [
 			{
 				"language": "html",
+				"path": "./snippets/class.json"
+			},
+			{
+				"language": "typescript",
 				"path": "./snippets/class.json"
 			},
 			{
